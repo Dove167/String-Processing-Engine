@@ -1,0 +1,47 @@
+{
+  "name": "spe-mathematical-genius",
+  "version": "1.0.0",
+  "description": "SPE: Revolutionary Mathematical Reasoning AI with Exact Calculations and Self-Learning",
+  "main": "index.js",
+  "scripts": {
+    "repl": "tsx src/repl.ts",
+    "learner": "tsx src/learner.ts",
+    "demo": "tsx demosrc/demo.ts",
+    "showcase": "tsx demosrc/showcase.ts",
+    "examples": "tsx demosrc/examples.ts",
+    "benchmark": "tsx demosrc/benchmarks.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai", 
+    "mathematics", 
+    "reasoning", 
+    "machine-learning", 
+    "symbolic-processing", 
+    "exact-calculation",
+    "glm", 
+    "hackathon",
+    "neural-symbolic",
+    "self-learning"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/spe-mathematical-genius"
+  },
+  "homepage": "https://github.com/yourusername/spe-mathematical-genius#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/spe-mathematical-genius/issues"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
