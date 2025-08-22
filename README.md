@@ -2,7 +2,7 @@
 
 ![SPE Logo](https://img.shields.io/badge/SPE-Mathematical%20Genius-blue?style=for-the-badge&logo=math&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Performance](https://img.shields.io/badge/Performance-Sub--ms-green.svg)](#performance)
 
 🧠 **SPE** is a revolutionary AI that combines symbolic processing with neural learning for exact mathematical reasoning. It achieves 100% accuracy on learned patterns with sub-millisecond response times while continuously improving through organic learning.
@@ -487,7 +487,7 @@ npm run build
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 

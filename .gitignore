@@ -4,6 +4,8 @@
 /src/learner.ts
 /src/spe-core.ts
 /src/db-storage.ts
+/src/types.ts
+/src/repl.ts
 *.db
 *.sqlite
 *.sqlite3

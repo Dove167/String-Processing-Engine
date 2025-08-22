@@ -9,7 +9,7 @@
     "demo": "tsx demosrc/demo.ts",
     "showcase": "tsx demosrc/showcase.ts",
     "examples": "tsx demosrc/examples.ts",
-    "benchmark": "tsx demosrc/benchmarks.ts",
+    "benchmarks": "tsx demosrc/benchmarks.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
